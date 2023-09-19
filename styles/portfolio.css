@@ -222,7 +222,7 @@ main{
 
  .resume-container{
     display: flex;
-    gap: 20px;
+    gap: 30px;
  }
 
  .education{
@@ -252,3 +252,22 @@ main{
  .ex-desc{
     margin-bottom: 10px;
  }
+
+ .btn{
+    text-align: center;
+ }
+
+ .form-section{
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    gap: 100px;
+    height: 400px;
+    background-color: #FFF8F3;
+    padding: 50px 200px;
+ }
+
+ .footer-desc{
+    margin: 20px 0px;
+ }
+ 
